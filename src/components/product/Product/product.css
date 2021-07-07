@@ -1,0 +1,5 @@
+.product-header{
+    display: flex;
+    border: 1px solid #ddd;
+    margin: 10px 0 ;
+}
